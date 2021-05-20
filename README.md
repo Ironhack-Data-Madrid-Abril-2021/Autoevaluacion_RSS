@@ -1,16 +1,18 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Working with RSS Feeds
+# Self-Assessment-Lab | Working with RSS Feeds
 
 ## Introduction
 
-In the Working with RSS lesson, you learned how to parse an RSS feed with the feedparser library, explore and extract components of a feed, and perform some basic analyses on the information.
+In this repository, you will find the solutions to the ![RSS lab](https://github.com/Ironhack-Data-Madrid-Abril-2021/lab_rss). 
 
-In this lab, you will practice parsing RSS feeds with feedparser and extracting/analyzing the information contained within them.
+Your mission is to compare it with your own exercise and write a comment on your own pull-request with a brief assessment and a grade from 0 to 10 in depending on:
++ Percentage completed
++ Have I submitted all the deliverables?
++ Have I got the information I've been asked for?
++ Code quality (for example: Have I used functions intead of repeating the same code snippet again and again?)
 
-## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. There are a bunch of questions to be solved. If you get stuck in one exercise you can skip to the next one. Read each instruction carefully and provide your answer beneath it.
 
 ## Deliverables
 
